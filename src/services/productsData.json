@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "image": "https://d500.epimg.net/cincodias/imagenes/2019/09/03/smartphones/1567506654_777655_1567506786_sumario_normal.jpg",
+    "mas-vendidos": true,
+    "titulo": "Teléfono Samsung Galaxy A90 con 1TB de almacenamiento",
+    "descuento": {
+      "descuento": true,
+      "antiguo": 799.999,
+      "porcentaje": 20
+    },
+    "precio": 639.222,
+    "envioGratis": true,
+    "description": "Experimenta el poder y la elegancia con el teléfono Samsung Galaxy S90. Almacena todo lo que necesitas con su impresionante capacidad de 1TB. La pantalla AMOLED de 6.7 pulgadas ofrece colores vibrantes y detalles nítidos. Cámara triple de 48 MP para capturar momentos increíbles. Batería de larga duración y carga rápida de 25W. ¡Descubre la última tecnología de Samsung ahora!",
+    "marca": "Samsung",
+    "estrellas": 4.8,
+    "url": "/telefono-samsung-galaxy-s90"
+  },
+  {
+    "id": 2,
+    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/latam/co/support/laptop-user-guide/img/laptop.png",
+    "mas-vendidos": true,
+    "titulo": "Portátil Ultradelgado HP Spectre ultimate edition",
+    "descuento": {
+      "descuento": false,
+      "antiguo": 1299.998,
+      "porcentaje": 0
+    },
+    "precio": 1299.399,
+    "envioGratis": true,
+    "description": "Trabaja y juega con estilo con el portátil ultradelgado HP Spectre. La pantalla táctil de 13.3 pulgadas ofrece una experiencia visual asombrosa. Equipado con un potente procesador Intel Core i7, 16GB de RAM y 512GB de almacenamiento SSD. Diseño elegante de aluminio y autonomía de batería excepcional. Ideal para profesionales en movimiento.",
+    "marca": "HP",
+    "estrellas": 4.5,
+    "url": "/portatil-hp-spectre"
+  },
+  {
+    "id": 3,
+    "image": "https://cdnx.jumpseller.com/tiquemobile/image/28308367/resize/610/610?1692904628",
+    "mas-vendidos": false,
+    "titulo": "Teléfono Apple iPhone 12 Pro (256 Gb)",
+    "descuento": {
+      "descuento": false,
+      "antiguo": 1299.991,
+      "porcentaje": 0
+    },
+    "precio": 1299.299,
+    "envioGratis": false,
+    "description": "Trabaja y juega con estilo con el portátil ultradelgado HP Spectre. La pantalla táctil de 13.3 pulgadas ofrece una experiencia visual asombrosa. Equipado con un potente procesador Intel Core i7, 16GB de RAM y 512GB de almacenamiento SSD. Diseño elegante de aluminio y autonomía de batería excepcional. Ideal para profesionales en movimiento.",
+    "marca": "HP",
+    "estrellas": 4.5,
+    "url": "/portatil-hp-spectre"
+  },
+  {
+    "id": 4,
+    "image": "https://ae01.alicdn.com/kf/A1cff6faf27a14bcaa1d0ddef809e3d11v/Versi-n-global-Black-Shark-4-5G-12GB-RAM-256GB-NFC-Tel-fono-para-juegos.png",
+    "mas-vendidos": true,
+    "titulo": "Teléfono Xiaomi Black Shark 4 5G",
+    "descuento": {
+      "descuento": false,
+      "antiguo": 1299.929,
+      "porcentaje": 0
+    },
+    "precio": 1299.991,
+    "envioGratis": true,
+    "description": "Trabaja y juega con estilo con el portátil ultradelgado HP Spectre. La pantalla táctil de 13.3 pulgadas ofrece una experiencia visual asombrosa. Equipado con un potente procesador Intel Core i7, 16GB de RAM y 512GB de almacenamiento SSD. Diseño elegante de aluminio y autonomía de batería excepcional. Ideal para profesionales en movimiento.",
+    "marca": "HP",
+    "estrellas": 4.5,
+    "url": "/portatil-hp-spectre"
+  },
+
+  {
+    "id": 5,
+    "image": "https://bjs.scene7.com/is/image/bjs/248158?$bjs-Zoom$",
+    "mas-vendidos": true,
+    "titulo": "Tablet Apple iPad Pro 12.9",
+    "descuento": {
+      "descuento": false,
+      "antiguo": 999.99,
+      "porcentaje": 0
+    },
+    "precio": 999.99,
+    "envioGratis": true,
+    "description": "Explora la creatividad y productividad con el Apple iPad Pro 12.9. Pantalla Liquid Retina XDR, chip M1 para rendimiento excepcional y soporte para Apple Pencil. Perfecto para profesionales y creativos.",
+    "marca": "Apple",
+    "estrellas": 4.8,
+    "url": "/tablet-apple-ipad-pro"
+  },
+  {
+    "id": 6,
+    "image": "https://m.media-amazon.com/images/I/51dtasctqWL.jpg",
+    "mas-vendidos": false,
+    "titulo": "Portátil Lenovo Yoga 9i",
+    "descuento": {
+      "descuento": true,
+      "antiguo": 1499.99,
+      "porcentaje": 15
+    },
+    "precio": 1274.99,
+    "envioGratis": false,
+    "description": "Experimenta la versatilidad con Lenovo Yoga 9i. Pantalla táctil de 14 pulgadas, procesador Intel Core i7, y diseño convertible. Ideal para trabajo y entretenimiento.",
+    "marca": "Lenovo",
+    "estrellas": 4.6,
+    "url": "/laptop-lenovo-yoga-9i"
+  },
+  {
+    "id": 7,
+    "image": "https://www.undertec.store/wp-content/uploads/2021/02/xiaomi-mi-11-undertaker-tec-store-4.jpg",
+    "mas-vendidos": true,
+    "titulo": "Teléfono Xiaomi Mi 11",
+    "descuento": {
+      "descuento": true,
+      "antiguo": 799.99,
+      "porcentaje": 10
+    },
+    "precio": 719.99,
+    "envioGratis": true,
+    "description": "Descubre la innovación con Xiaomi Mi 11. Pantalla AMOLED de 6.81 pulgadas, cámara de 108 MP y procesador Snapdragon 888. Un gigante en rendimiento y fotografía.",
+    "marca": "Xiaomi",
+    "estrellas": 4.7,
+    "url": "/smartphone-xiaomi-mi-11"
+  },
+  {
+    "id": 8,
+    "image": "https://images.fravega.com/f300/9fed2044494d307b603e37b737e22229.jpg.webp",
+    "mas-vendidos": false,
+    "titulo": "Tablet Samsung Galaxy Tab S7",
+    "descuento": {
+      "descuento": false,
+      "antiguo": 649.99,
+      "porcentaje": 0
+    },
+    "precio": 649.99,
+    "envioGratis": false,
+    "description": "Maximiza tu productividad con Samsung Galaxy Tab S7. Pantalla de 11 pulgadas, procesador potente y S Pen incluido. Ideal para trabajo y ocio.",
+    "marca": "Samsung",
+    "estrellas": 4.6,
+    "url": "/tablet-samsung-galaxy-tab-s7"
+  }
+]
