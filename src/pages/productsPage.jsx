@@ -63,6 +63,15 @@ export default function ProductPage() {
     }
   };
 
+  const refreshProductData = async () => {
+    try {
+      const res = await crudAxios.get(`/product/${id}`);
+      setProduct(res.data.producto);
+    } catch (error) {
+      console.log(error);
+    }
+  };
+
   return (
     <>
       <div className="bg-gray-100 flex justify-center min-h-screen ">
@@ -136,9 +145,10 @@ export default function ProductPage() {
               </div>
             </div>
             <CommentsSection
-              producto={product} // Assuming this prop will identify the current product
-              isAuthenticated={auth.isAuthenticated} // Assuming this prop will control if the user can post comments or replies
-            />
+  producto={product}
+  isAuthenticated={auth.isAuthenticated}
+  onRefreshProduct={refreshProductData} // Passing the refresh function as a prop
+/>
           </div>
         </div>
       </div>
