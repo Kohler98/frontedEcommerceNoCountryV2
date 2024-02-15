@@ -4,7 +4,7 @@ import crudAxios from "../../config/axios";
 import { Country, State, City } from "country-state-city";
 import { CRMContext } from "../context/CRMcontext";
 
-export default function EditUsersData({ user, setIsEditing, setSelectedUser }) {
+export default function EditUserData({ user, setIsEditing, setSelectedUser, onUpdateUser }) {
   const [states, setStates] = useState([]);
   const [cities, setCities] = useState([]);
   const [auth, setAuth] = useContext(CRMContext);
@@ -49,7 +49,9 @@ export default function EditUsersData({ user, setIsEditing, setSelectedUser }) {
       };
       await crudAxios.put(`/admin/user/${user.id}`, formState, config);
       setIsEditing(false);
-      setSelectedUser(null);
+      if (onUpdateUser) {
+        onUpdateUser(); // Call the update function to refresh user data
+      }
     } catch (error) {
       console.error("Error updating user data:", error);
     }

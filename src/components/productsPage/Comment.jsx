@@ -26,6 +26,7 @@ export const Comment = ({ comment, onRefreshProduct }) => {
       console.error("Error posting reply:", error);
     }
   };
+  console.log(userRole);
 
   return (
     <li className="bg-white p-4 rounded-md shadow mb-2 border border-gray-200">
